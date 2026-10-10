@@ -1,6 +1,7 @@
 # Helix – Internship Operations & Management Platform for IIT Jammu
 Helix (InternOps) is a full-stack internship operations platform built for IIT Jammu that digitizes the complete internship lifecycle through secure multi-role dashboards, mentor–intern collaboration, assignment and submission management, GPS-based attendance, notification services, and interactive analytics.
 
+Demo Link - https://drive.google.com/file/d/1lXs49ePzVRQuswXPsl6F9c1od6ELBCDS/view?usp=sharing
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
 
 ![Express](https://img.shields.io/badge/Express.js-Framework-black)
